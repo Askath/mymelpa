@@ -1,0 +1,1 @@
+(doom-themes :fetcher git :url "/Users/taradruffel/local-packages/" :files ("doom-themes-20250112.1812/*"))

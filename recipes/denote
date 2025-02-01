@@ -1,0 +1,1 @@
+(denote :fetcher git :url "/Users/taradruffel/local-packages/" :files ("denote-3.1.0/*"))

@@ -1,0 +1,1 @@
+(lsp-docker :fetcher git :url "/Users/taradruffel/local-packages/" :files ("lsp-docker-20240419.1428/*"))

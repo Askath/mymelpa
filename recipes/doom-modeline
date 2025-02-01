@@ -1,0 +1,1 @@
+(doom-modeline :fetcher git :url "/Users/taradruffel/local-packages/" :files ("doom-modeline-20241225.206/*"))

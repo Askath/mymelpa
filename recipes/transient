@@ -1,0 +1,1 @@
+(transient :fetcher git :url "/Users/taradruffel/local-packages/" :files ("transient-20250122.1219/*"))

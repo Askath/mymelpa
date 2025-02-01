@@ -1,0 +1,1 @@
+(hledger-mode :fetcher git :url "/Users/taradruffel/local-packages/" :files ("hledger-mode-20240415.1812/*"))

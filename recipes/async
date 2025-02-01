@@ -1,0 +1,1 @@
+(async :fetcher git :url "/Users/taradruffel/local-packages/" :files ("async-20241126.810/*"))

@@ -1,0 +1,1 @@
+(dashboard :fetcher git :url "/Users/taradruffel/local-packages/" :files ("dashboard-20250110.2013/*"))

@@ -1,0 +1,1 @@
+(lsp-treemacs :fetcher git :url "/Users/taradruffel/local-packages/" :files ("lsp-treemacs-20240406.2141/*"))

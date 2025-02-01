@@ -1,0 +1,1 @@
+(eldoc-eask :fetcher git :url "/Users/taradruffel/local-packages/" :files ("eldoc-eask-20250101.837/*"))

@@ -1,0 +1,1 @@
+(lsp-mode :fetcher git :url "/Users/taradruffel/local-packages/" :files ("lsp-mode-20250129.601/*"))

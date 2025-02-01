@@ -1,0 +1,1 @@
+(elpa-mirror :fetcher git :url "/Users/taradruffel/local-packages/" :files ("elpa-mirror-20240413.1426/*"))
