@@ -1,1 +1,0 @@
-(flycheck :fetcher git :url "/Users/taradruffel/local-packages/" :files ("flycheck-20250109.714/*"))

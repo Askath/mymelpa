@@ -1,1 +1,0 @@
-(mathjax :fetcher git :url "/Users/taradruffel/local-packages/" :files ("mathjax-0.1/*"))

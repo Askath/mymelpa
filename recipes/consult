@@ -1,1 +1,0 @@
-(consult :fetcher git :url "/Users/taradruffel/local-packages/" :files ("consult-20250128.1730/*"))

@@ -1,1 +1,0 @@
-(vertico-posframe :fetcher git :url "/Users/taradruffel/local-packages/" :files ("vertico-posframe-0.8.0/*"))

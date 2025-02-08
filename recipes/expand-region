@@ -1,1 +1,0 @@
-(expand-region :fetcher git :url "/Users/taradruffel/local-packages/" :files ("expand-region-20241217.1840/*"))
